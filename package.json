@@ -1,7 +1,7 @@
 {
   "name": "blogging-website",
   "version": "1.0.0",
-  "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,10 @@
     "url": "https://github.com/Zainabiu/Blogging-Website/issues"
   },
   "homepage": "https://github.com/Zainabiu/Blogging-Website#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "htmlhint": "^1.1.4",
+    "stylelint": "^16.14.0",
+    "stylelint-config-standard": "^37.0.0"
+  }
 }
